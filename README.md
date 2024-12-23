@@ -1,5 +1,5 @@
 ```sh
-conda env create --file=environments.yml
+conda env create --file=environment.yml
 ```
 
 Example training:
